@@ -4,7 +4,7 @@ cam_ids:
 cam_aliases:
   - cam_fl_03 # FL_03
 
-master_cam: 19378377 # FM_01
+master_cam: 19378375 # FL_03
 skip: 20
 delay: 1.0
 
