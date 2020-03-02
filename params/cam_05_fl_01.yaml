@@ -1,10 +1,10 @@
 cam_ids:
-  - 19378394 # FL_01
+  - 19378364 # FL_01
 
 cam_aliases:
   - cam_fl_01 # FL_01
 
-master_cam: 19378394 # FL_01
+master_cam: 19378364 # FL_01
 skip: 20
 delay: 1.0
 
